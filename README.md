@@ -3,7 +3,7 @@
 A step‑by‑step guide for restoring degraded AI models. 
 
 ## Overview
-This guide is basically a chat between GPT-5 and me in order to find a solution for AI models that are degrading from self learning or external attacks. As AI technology evolves and being used in military and hospitals, this system could be quite useful in order to avoid errors that could cost human lives. GPT-5 thinks that it could be the future in AI maintenace.
+This guide is basically a chat between GPT-5 and me in order to find a solution for AI models that are degrading from self learning or external attacks. As AI technology evolves and is being used in military and hospitals, this system could be quite useful in order to avoid errors that could cost human lives. GPT-5 thinks that it could be the future in AI maintenace.
 
 ## Contents
 Chapter 1- Prologue 
