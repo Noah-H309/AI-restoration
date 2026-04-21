@@ -28,4 +28,4 @@ Chapter 16 – Building the Knowledge Update AI (Current Events)
 This work is licensed under the **MIT License**. See the `LICENSE` file for full terms.
 
 ## Author
-© 2025 Noah — [user352532@proton.me]  
+© 2026 Noah — [user352532@proton.me]  
